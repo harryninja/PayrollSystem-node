@@ -668,7 +668,7 @@
 
 
   <div class="application-main " data-commit-hovercards-enabled>
-        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+        <div itemscope itemtype="" class="">
     <main  >
       
 

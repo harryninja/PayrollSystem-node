@@ -16,16 +16,16 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-7mtunHqp/Bw0ND9akjJME8XCh0WPm3HAXOSeX7skL0qGAhpdfzkQvYcujYcwNPTpWKeKMFUGZGtvnEkcczFgwQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-9b5314213e37056ed87b0418056c4f2c.css" />
-  
+
     <link crossorigin="anonymous" media="all" integrity="sha512-1/z1fPE3Poa59d+2p+G3vpVfIVoknduVSBspLD6jvShQUYwanCH8p/mBRjT+AQk7Wep0Nwm5JLlA5//OlcjoWg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-374af3cf411814845e3d9031bb0fb149.css" />
-    
-    
-    
-    
+
+
+
+
 
 
   <meta name="viewport" content="width=device-width">
-  
+
   <title>pdfmake/pdfmake.js at master · bpampuch/pdfmake</title>
     <meta name="description" content="Client/server side PDF printing in pure JavaScript - bpampuch/pdfmake">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
@@ -43,7 +43,7 @@
 
 
 
-  
+
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
@@ -65,7 +65,7 @@
 
 
 
-  
+
 
       <meta name="hostname" content="github.com">
     <meta name="user-login" content="dk111001">
@@ -79,7 +79,7 @@
     <meta name="html-safe-nonce" content="6829d6b3b134de4c547a1566ceead2477949899c">
 
   <meta http-equiv="x-pjax-version" content="3a4f976a33add1e380a5b0580c5b669a">
-  
+
 
       <link href="https://github.com/bpampuch/pdfmake/commits/master.atom" rel="alternate" title="Recent Commits to pdfmake:master" type="application/atom+xml">
 
@@ -111,7 +111,7 @@
   </head>
 
   <body class="logged-in env-production page-responsive page-blob">
-    
+
 
   <div class="position-relative js-header-wrapper ">
     <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
@@ -119,9 +119,9 @@
       <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
     </span>
 
-    
-    
-    
+
+
+
 
 
           <header class="Header js-details-container Details flex-wrap flex-lg-nowrap p-responsive" role="banner">
@@ -170,9 +170,9 @@
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
             <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-              
+
 <ul class="d-none js-jump-to-suggestions-template-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -213,7 +213,7 @@
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -245,7 +245,7 @@
   </a>
 </li>
 
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -302,7 +302,7 @@
     <div class="mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15">
       <a class="js-selected-navigation-item Header-link" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
         Marketplace
-</a>      
+</a>
 
     </div>
 
@@ -336,7 +336,7 @@
 
 
     <div class="Header-item mr-0 mr-lg-3 flex-order-1 flex-lg-order-none">
-      
+
 
     <a aria-label="You have no unread notifications" class="Header-link notification-indicator position-relative tooltipped tooltipped-sw js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:43203268" href="/notifications">
         <span class="mail-status "></span>
@@ -353,7 +353,7 @@
     <svg class="octicon octicon-plus" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg> <span class="dropdown-caret"></span>
   </summary>
   <details-menu class="dropdown-menu dropdown-menu-sw">
-    
+
 <a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
   New repository
 </a>
@@ -386,7 +386,7 @@
     </div>
 
     <div class="Header-item position-relative mr-0 d-none d-lg-flex">
-      
+
   <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/dk111001/feature_preview/indicator_check.json">
 
   <summary class="Header-link"
@@ -401,7 +401,7 @@
     <div role="none" class="dropdown-divider"></div>
 
       <div class="pl-3 pr-3 f6 user-status-container js-user-status-context pb-1" data-url="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1">
-        
+
 <div class="js-user-status-container
     user-status-compact rounded-1 px-2 py-1 mt-2
     border
@@ -423,9 +423,9 @@
         </div>
         <div class="
           d-inline-block v-align-middle
-          
-          
-           css-truncate css-truncate-target 
+
+
+           css-truncate css-truncate-target
            user-status-message-wrapper f6"
            style="line-height: 20px;" >
           <div class="d-inline-block text-gray-dark v-align-text-top text-left">
@@ -531,7 +531,7 @@
               </div>
             </div>
           </div>
-            
+
 
 <div class="d-inline-block f5 mr-2 pt-3 pb-2" >
   <div class="d-inline-block mr-1">
@@ -616,7 +616,7 @@
 
 
     <div role="none" class="dropdown-divider"></div>
-      
+
 <div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
   <button
     type="button"
@@ -636,7 +636,7 @@
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4TxdFjHIPtlvExPf5ol0npOjgbawfISzWviM4dJJxn7Oq9E+gFAKYSMMfxmA3EhdEOhH+nFMbQXpEK5Z1kpTjg==" />
-      
+
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
@@ -651,7 +651,7 @@
 
   </header>
 
-      
+
 
   </div>
 
@@ -665,12 +665,12 @@
 
 
   <div class="application-main " data-commit-hovercards-enabled>
-        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+        <div itemscope itemtype="" class="">
     <main  >
-      
 
 
-  
+
+
 
       <div class="border-bottom shelf intro-shelf js-notice mb-0 pb-4">
   <div class="width-full container">
@@ -704,7 +704,7 @@
 
 
     <li >
-      
+
     <details class="dropdown details-reset details-overlay d-inline-block float-left"
       data-deferred-details-content-url="/bpampuch/pdfmake/used_by_contents"
     >
@@ -732,7 +732,7 @@
     </li>
 
   <li>
-    
+
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZC6J8aHu5MJC6o6hHcArfYvWsxxlqAuYLTdwVrRjuPAGiujvrkE4Tfq/+T6iceLE/xoFlB/+hWA6FP/1jRyq2Q==" />      <input type="hidden" name="repository_id" value="16107755">
 
       <details class="details-reset details-overlay select-menu float-left">
@@ -847,12 +847,12 @@
   <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/bpampuch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch">bpampuch</a></span><!--
 --><span class="path-divider">/</span><!--
 --><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/bpampuch/pdfmake">pdfmake</a></strong>
-  
+
 
 </h1>
 
     </div>
-    
+
 <nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container-lg p-responsive d-none d-lg-block"
      itemscope
      itemtype="http://schema.org/BreadcrumbList"
@@ -968,21 +968,21 @@
 <div class="container-lg clearfix new-discussion-timeline experiment-repo-nav  p-responsive">
   <div class="repository-content ">
 
-    
-    
 
 
-  
+
+
+
 
 
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/bpampuch/pdfmake/blob/56c0a234a46f6eccd50ec89bc214a7b0e002877e/build/pdfmake.js">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:c11aad1f859c174c25de4435fb965e18 -->
-      
+
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
       <span class="d-flex flex-justify-between width-full width-md-auto">
-        
+
 <details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
   <summary class="btn btn-sm select-menu-button css-truncate"
            data-hotkey="w"
@@ -1027,11 +1027,11 @@
       </div>
     </div>
 
-    
 
 
 
-    
+
+
   <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
       <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
         <span class="pr-md-4 f6">
@@ -1069,27 +1069,27 @@
       </details>
         <span class="">
     <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/bpampuch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=bpampuch">
-      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/3721522?s=40&amp;v=4" width="20" height="20" alt="@bpampuch" /> 
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/3721522?s=40&amp;v=4" width="20" height="20" alt="@bpampuch" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/liborm85/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=liborm85">
-      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/1298652?s=40&amp;v=4" width="20" height="20" alt="@liborm85" /> 
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/1298652?s=40&amp;v=4" width="20" height="20" alt="@liborm85" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/yelouafi/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=yelouafi">
-      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/5453835?s=40&amp;v=4" width="20" height="20" alt="@yelouafi" /> 
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/5453835?s=40&amp;v=4" width="20" height="20" alt="@yelouafi" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/kamilkp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=kamilkp">
-      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/5748846?s=40&amp;v=4" width="20" height="20" alt="@kamilkp" /> 
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/5748846?s=40&amp;v=4" width="20" height="20" alt="@kamilkp" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/einfallstoll/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=einfallstoll">
-      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/619048?s=40&amp;v=4" width="20" height="20" alt="@einfallstoll" /> 
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/619048?s=40&amp;v=4" width="20" height="20" alt="@einfallstoll" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/tocado/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=tocado">
-      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/5160620?s=40&amp;v=4" width="20" height="20" alt="@tocado" /> 
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/5160620?s=40&amp;v=4" width="20" height="20" alt="@tocado" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/raphaelboukara/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=raphaelboukara">
-      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/6442236?s=40&amp;v=4" width="20" height="20" alt="@raphaelboukara" /> 
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/6442236?s=40&amp;v=4" width="20" height="20" alt="@raphaelboukara" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/pjungwir/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=pjungwir">
-      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/660353?s=40&amp;v=4" width="20" height="20" alt="@pjungwir" /> 
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/660353?s=40&amp;v=4" width="20" height="20" alt="@pjungwir" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/nate-summercook/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=nate-summercook">
-      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/5754669?s=40&amp;v=4" width="20" height="20" alt="@nate-summercook" /> 
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/5754669?s=40&amp;v=4" width="20" height="20" alt="@nate-summercook" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/jonathantyates/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=jonathantyates">
-      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/3408947?s=40&amp;v=4" width="20" height="20" alt="@jonathantyates" /> 
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/3408947?s=40&amp;v=4" width="20" height="20" alt="@jonathantyates" />
 </a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/ardean/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bpampuch/pdfmake/commits/master/build/pdfmake.js?author=ardean">
-      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/17138728?s=40&amp;v=4" width="20" height="20" alt="@ardean" /> 
+      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/17138728?s=40&amp;v=4" width="20" height="20" alt="@ardean" />
 </a>
 </span>
 
@@ -1101,7 +1101,7 @@
 
 
     <div class="Box mt-3 position-relative">
-      
+
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
@@ -1136,7 +1136,7 @@
 
 
 
-      
+
 
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
       <div class="text-center p-3">
@@ -1147,7 +1147,7 @@
 
     </div>
 
-  
+
 
   <details class="details-reset details-overlay details-overlay-dark">
     <summary data-hotkey="l" aria-label="Jump to line"></summary>
@@ -1165,11 +1165,11 @@
 
     </main>
   </div>
-  
+
 
   </div>
 
-        
+
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
@@ -1210,13 +1210,13 @@
   </div>
 
 
-    
+
     <script crossorigin="anonymous" integrity="sha512-BXaOYq3FHWkswNUIz5ZL8M9ej0Wj5rfT/EU45qRCjKYVo5LHk4m4Cic3K8bdGYCrKKfaD/8mHjypufGfRwu16Q==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-05768e62.js"></script>
-    
+
     <script crossorigin="anonymous" async="async" integrity="sha512-YydsqJ2O3cQYxnO4mr9dyuV+YVOa6i6NVlRglcwnqBJMf8Z+vbBRzQSX/poN871uAn/iDTwUPgwitaeRhU5YXQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-63276ca8.js"></script>
-    
-    
-    
+
+
+
   <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
     >
     <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
